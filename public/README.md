@@ -18,7 +18,7 @@ This is my first mini React project built to practice:
 - CSS
 
 ## 📸 Preview
-(Add a screenshot here)
+![Project Preview](./public/screenshots/preview.png)
 
 ## 🙌 What I learned
 - How to pass and use props in React
@@ -28,3 +28,4 @@ This is my first mini React project built to practice:
 ---
 
 This is my first step into React 🚀
+
